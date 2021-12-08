@@ -1,0 +1,145 @@
+.style-inline {
+    float  : left !important;
+    margin : 0px;
+    padding: 0;
+}
+
+.row-header {
+    margin : 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin       : 0px auto;
+    padding      : 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height   : 400px;
+}
+
+.footer {
+    background-color: lightskyblue;
+    margin          : 0 auto;
+    padding         : 20px 0px 20px 0px;
+    clear           : both
+}
+
+.jumbotron {
+    padding   : 70px 30px 70px 30px;
+    margin    : 0px auto;
+    background: #9575CD;
+    color     : floralwhite;
+}
+
+address {
+    font-size: 80%;
+    margin   : 0px;
+    color    : #0f0f0f;
+}
+
+.navbar-dark {
+    background-color: blue;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.set1 {
+    padding         : 5px;
+    background-color: blue;
+    border          : 1px solid gray;
+}
+
+.staff {
+    margin-left: 10px !important;
+    padding    : 0 !important;
+}
+
+.searchSet {
+    margin          : 10px 10px 10px 0;
+    width           : 80%;
+    background-color: snow;
+    border-radius   : 5px;
+}
+
+.searchSet:hover {
+    background-color: skyblue;
+    color           : black;
+}
+
+.department {
+    padding: 5px;
+    border : 3px solid blue !important;
+}
+
+.list-group {
+    margin-bottom: 30px !important;
+    border       : 3px solid black;
+    border-radius: 0 !important;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.clear {
+    clear: both
+}
+
+.container {
+    padding-bottom: 20px;
+}
+
+.breadcrumb {
+    margin : 15px;
+    padding: 10px 0 10px 0 !important;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin: 10px;
+
+}
+
+.modal-header {
+    background-color: blue;
+    text-transform  : uppercase;
+    color           : white;
+}
+
+.btn-secondary {
+    background-color: blue !important;
+    text-transform  : uppercase;
+    color           : white;
+    margin          : auto;
+}
+
+.col-form-label {
+    min-width  : 180px;
+    font-weight: bold;
+}
+
+.setErr {
+    color: red;
+}
+
+.a {
+    text-decoration: none !important;
+    color          : blue !important
+}
+
+.fa-exclamation-triangle {
+    color: red;
+}
+
+.breadcrumb-item {
+    font-size  : 20px;
+    font-weight: bold;
+}
