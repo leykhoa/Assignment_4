@@ -47,7 +47,7 @@ const FormStaff = forwardRef((props, ref) => {
                             Họ và Tên
                         </Label>
                         <Control.text
-                            model=".fullName"
+                            model=".name"
                             type="text"
                             validators={{
                                 required, minLength: minLength(5), maxLength: maxLength(20)
